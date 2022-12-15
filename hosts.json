@@ -1,0 +1,35 @@
+{
+    "192.168.100.1": {
+        "MAC": "34:00:a3:**:**:**",
+        "is_gateway": true,
+        "Brand": "Huawei"
+    },
+
+    "192.168.100.97": {
+        "MAC": "14:13:46:**:**:**",
+        "is_gateway": false,
+        "LOGO": "MSWIN",
+        "Username": "Admin",
+        "Password": "letmein123",
+        "Open ports": "22, 80, 443"
+
+
+    },
+
+    "192.168.100.181": {
+        "Port": 5432,
+        "MAC": "d8:0b:9a:**:**:**",
+        "is_gateway": false,
+        "LOGO": "SERVER",
+        "Service": "Postgres server"
+        
+    },
+
+    "192.168.100.131": {
+        "is_gateway": false,
+        "Open ports": "22, 80",
+        "MAC": "de:ad:be:ef:**:**",
+        "OS": "Unknown"
+        
+    }
+}
